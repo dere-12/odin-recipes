@@ -1,7 +1,7 @@
 # odin-recipes
 
-This is basic HTML project as part of the Odin Project.
+This is basic HTML project as part of [The Odin Project](https://www.theodinproject.com "Visit The Odin Project page").
 
 # Live preview
 
-https://dere-12.github.io/odin-recipes/
+Click [here](https://dere-12.github.io/odin-recipes/) to view.
