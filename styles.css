@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #1b412a;
+  color: wheat;
+}
+
+/* HOME PAGE */
+
+.container {
+  width: 600px;
+  background-color: #757a75;
+  padding: 10px 8px 4px 8px;
+  margin: 40px auto;
+}
+
+.container h1 {
+  background-color: #1c1d1c;
+  color: #fafdfa;
+  padding: 12px;
+  margin: 0px;
+  text-align: center;
+}
+
+.container ul {
+  background-color: #102410;
+  margin: 5px 0px 0px;
+  padding-left: 0;
+}
+
+.container ul li {
+  list-style: none;
+  margin-bottom: 4px;
+  padding: 10px;
+  background-color: black;
+}
+
+.container a {
+  color: #b7b5b9;
+}
+
+/* OTHER PAGES COMMON STYLE */
+
+.pages-container {
+  width: 900px;
+  margin: 30px auto;
+}
+
+.pages-container h1 {
+  text-align: center;
+}
+
+.pages-container h2 {
+  color: #fafdfa;
+}
+
+.pages-container img {
+  width: 900px;
+  height: 563px;
+}
+
+p button {
+  padding: 8px 24px;
+  margin: 4px 4px 12px 40px;
+}
